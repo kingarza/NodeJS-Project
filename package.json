@@ -1,0 +1,20 @@
+{
+  "name": "expressejs",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Luis Garza",
+  "license": "ISC"
+}
